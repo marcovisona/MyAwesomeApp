@@ -6,6 +6,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import com.example.mymodule.app2.TextOutput;
+
 
 public class MainActivity extends ActionBarActivity {
 
